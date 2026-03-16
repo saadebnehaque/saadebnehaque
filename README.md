@@ -33,7 +33,7 @@ I am a passionate Frontend Developer focused on building clean, responsive, and 
 ---
 
 ### 📫 Let's Connect
-- 💼 **LinkedIn:** []
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/saad-ebne-huq/]
 - 📧 **Email:** [sebnehaque@gmail.com]
 - 🌐 **Portfolio:** [https://saad-ebne-huq.vercel.app/]
 
