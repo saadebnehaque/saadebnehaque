@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Saad%20Ebne%20Huq&fontSize=70" alt="header" />
+</p>
+
 # 👋 Hi, I'm [Saad Ebne Huq]!
 
 ### 🚀 Aspiring Frontend Web Developer | React.js Explorer
