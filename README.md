@@ -14,7 +14,6 @@
 <a href="https://github.com/saadebnehaque">
   <img src="https://img.shields.io/github/stars/saadebnehaque?affiliations=OWNER&style=for-the-badge" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=saadebnehaque&style=for-the-badge&color=0e75b6" />
 
 </div>
 
@@ -48,24 +47,9 @@
 
 ---
 
-# 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadebnehaque&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadebnehaque&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 # 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadebnehaque&theme=tokyo-night&hide_border=true"/>
-</div>
-
----
-
-# 🏆 GitHub Trophy
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadebnehaque&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
