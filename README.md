@@ -64,9 +64,11 @@
 
 # 💡 Currently Learning
 - ⚛️ React.js
+- 🚀 Next.js
+- 🍃 MongoDB
+- 📘 TypeScript
 - 🔥 REST API
 - 📦 Component Architecture
-- 🚀 Git & GitHub
 - 🎨 Advanced Tailwind CSS
 
 ---
