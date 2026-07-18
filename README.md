@@ -21,19 +21,19 @@
 ---
 
 # 🌐 Connect With Me
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/saad-ebne-huq/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/><br><sub>LinkedIn</sub>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/><br>LinkedIn
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:sebnehaque@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48"/><br><sub>Gmail</sub>
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/><br>Gmail
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://saad-ebne-huq.vercel.app/">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="48"/><br><sub>Portfolio</sub>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="48" alt="Portfolio"/><br>Portfolio
   </a>
-</div>
+</p>
 
 ---
 
