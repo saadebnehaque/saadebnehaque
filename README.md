@@ -6,15 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;React.js+Learner;JavaScript+Enthusiast;Building+Modern+Responsive+Websites;Always+Learning+New+Things" />
 
-<br><br>
-
-<a href="https://github.com/saadebnehaque">
-  <img src="https://img.shields.io/github/followers/saadebnehaque?label=Followers&style=for-the-badge" />
-</a>
-<a href="https://github.com/saadebnehaque">
-  <img src="https://img.shields.io/github/stars/saadebnehaque?affiliations=OWNER&style=for-the-badge" />
-</a>
-
 </div>
 
 ---
@@ -31,11 +22,17 @@
 
 # 🌐 Connect With Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/saad-ebne-huq/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
-  &nbsp;&nbsp;
-  <a href="mailto:sebnehaque@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
-  &nbsp;&nbsp;
-  <a href="https://saad-ebne-huq.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="48"/></a>
+  <a href="https://www.linkedin.com/in/saad-ebne-huq/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/><br><sub>LinkedIn</sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sebnehaque@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48"/><br><sub>Gmail</sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://saad-ebne-huq.vercel.app/">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="48"/><br><sub>Portfolio</sub>
+  </a>
 </div>
 
 ---
