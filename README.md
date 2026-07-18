@@ -86,10 +86,12 @@
 
 ---
 
-# 💬 Favorite Quote
-<p align="center">
-  > **"Code. Learn. Build. Repeat."**
-</p>
+<div align="center">
+
+### 💬 Favorite Quote
+<code>if (dream > reality) { build(); }</code>
+
+</div>
 
 ---
 
