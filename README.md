@@ -22,22 +22,19 @@
 
 # 🌐 Connect With Me
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center" width="120">
-      <a href="https://www.linkedin.com/in/saad-ebne-huq/">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/><br><strong>LinkedIn</strong>
-      </a>
+      <a href="https://www.linkedin.com/in/saad-ebne-huq/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a><br>
+      <strong>LinkedIn</strong>
     </td>
     <td align="center" width="120">
-      <a href="mailto:sebnehaque@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/><br><strong>Gmail</strong>
-      </a>
+      <a href="mailto:sebnehaque@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a><br>
+      <strong>Gmail</strong>
     </td>
     <td align="center" width="120">
-      <a href="https://saad-ebne-huq.vercel.app/">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="48" alt="Portfolio"/><br><strong>Portfolio</strong>
-      </a>
+      <a href="https://saad-ebne-huq.vercel.app/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="48"/></a><br>
+      <strong>Portfolio</strong>
     </td>
   </tr>
 </table>
