@@ -21,19 +21,26 @@
 ---
 
 # 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/saad-ebne-huq/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/><br>LinkedIn
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sebnehaque@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/><br>Gmail
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://saad-ebne-huq.vercel.app/">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="48" alt="Portfolio"/><br>Portfolio
-  </a>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.linkedin.com/in/saad-ebne-huq/">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/><br><strong>LinkedIn</strong>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="mailto:sebnehaque@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/><br><strong>Gmail</strong>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://saad-ebne-huq.vercel.app/">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="48" alt="Portfolio"/><br><strong>Portfolio</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
