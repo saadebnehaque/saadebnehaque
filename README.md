@@ -1,43 +1,106 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Saad%20Ebne%20Huq&fontSize=70" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&text=Saad%20Ebne%20Huq&fontColor=ffffff&fontSize=60&animation=fadeIn" />
 </p>
 
-# 👋 Hi, I'm [Saad Ebne Huq]!
+<h1 align="center">Hi 👋, I'm Saad Ebne Huq</h1>
 
-### 🚀 Aspiring Frontend Web Developer | React.js Explorer
+<h3 align="center">
+Frontend Developer • React Learner • JavaScript Enthusiast
+</h3>
 
-I am a passionate Frontend Developer focused on building clean, responsive, and user-centric web applications. I enjoy solving complex problems with modern JavaScript and turning design concepts into functional digital experiences.
-
----
-
-### 💻 My Technical Toolkit
-
-**Core Technologies:**
-* **Languages:** JavaScript (ES6+), HTML5, CSS3
-* **Styling & UI:** Tailwind CSS, DaisyUI, Responsive Web Design
-* **Concepts:** DOM Manipulation, Asynchronous Programming (Async/Await, Promises), API Integration
-
-**Current Learning Path:**
-* **Library:** **React.js** (Hooks, State Management, Props) ⚛️
-* **Workflow:** Git & GitHub Version Control, Component-driven Development
+<p align="center">
+Building responsive websites, learning modern web technologies, and turning ideas into real-world projects.
+</p>
 
 ---
 
-### 🛠 What I’m Working On
-- 🔭 **Project Development:** Building dynamic web applications using modern JavaScript and REST APIs.
-- 🌱 **Skill Enhancement:** Deep diving into the **React ecosystem** to build scalable and high-performance user interfaces.
-- ⚡ **Focus:** Writing clean, maintainable code and optimizing web performance for a seamless user experience.
+## 🚀 About Me
+
+- 🎓 Marketing Student & Self-Taught Web Developer
+- 💻 Passionate about Frontend Development
+- 🌱 Currently learning **React.js** and modern JavaScript
+- 🎯 Goal: Become a Professional Frontend Engineer
+- 📚 Love building projects to improve my skills
+- ⚡ Always curious to learn something new
 
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadebnehaque&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadebnehaque&layout=compact&theme=radical)
+## 🛠 Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma" />
+</p>
 
 ---
 
-### 📫 Let's Connect
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/saad-ebne-huq/]
-- 📧 **Email:** [sebnehaque@gmail.com]
-- 🌐 **Portfolio:** [https://saad-ebne-huq.vercel.app/]
+## 📈 Currently Learning
+
+- ⚛️ React.js
+- 📦 Component Based Architecture
+- 🔥 REST API Integration
+- 🚀 Git & GitHub Workflow
+- 🎨 Advanced Tailwind CSS
 
 ---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saadebnehaque&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadebnehaque&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=saadebnehaque&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+💼 LinkedIn  
+https://www.linkedin.com/in/saad-ebne-huq/
+
+🌍 Portfolio  
+https://saad-ebne-huq.vercel.app/
+
+📧 Email  
+sebnehaque@gmail.com
+
+</p>
+
+---
+
+<p align="center">
+
+### 💭 Quote
+
+> *"Consistency beats talent when talent doesn't stay consistent."*
+
+</p>
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</p>
